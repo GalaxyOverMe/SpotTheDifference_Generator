@@ -17,9 +17,9 @@ python OpenCV를 이용하여 틀린그림찾기 이미지를 생성합니다.
 
 객체 삭제 방법으로 cv2.contrib.xphoto.inpaint 함수를 사용하였습니다.
 
-images 폴더의 이미지를 바꿔서 다른 퀴즈세트를 생성할 수 있습니다.
+<b>images 폴더의 이미지를 바꿔서 다른 퀴즈세트를 생성할 수 있습니다.</b>
 
-resources 폴더의 이미지를 바꿔서 다른 테마를 적용할 수 있습니다.
+<b>resources 폴더의 이미지를 바꿔서 다른 테마를 적용할 수 있습니다.</b>
 
 <img width="1200" alt="고흐" src="https://user-images.githubusercontent.com/80030558/120098399-ad203880-c170-11eb-9f31-b48e09145a3f.png">
 <pre>               원본 그림                                  틀린 그림                                    정답 그림 </pre>
