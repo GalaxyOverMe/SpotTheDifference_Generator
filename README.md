@@ -33,7 +33,7 @@ python OpenCV를 이용하여 틀린그림찾기 이미지를 생성합니다.
 
 ![image](https://user-images.githubusercontent.com/80030558/113543428-5808f000-9621-11eb-9941-5e9a9ded49d5.png)
 <pre>                                                    전통적인 방법</pre>
-Traditional way to create FindTheDifference problem is first make 'A', then paint some object to make 'B' <br>
+Traditional way to create SpotTheDifference problem is first make 'A', then paint some object to make 'B' <br>
 틀린그림찾기를 만드는 전통적인 방법은 원본그림 <b>A</b>에 몇가지 객체를 그려넣은 <b>B</b>를 만드는 것입니다.
 
 ![image](https://user-images.githubusercontent.com/80030558/113543738-f9904180-9621-11eb-8c1b-01de27dca12a.png)<br>
