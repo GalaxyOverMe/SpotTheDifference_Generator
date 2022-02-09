@@ -5,6 +5,8 @@ This is term project of Sejong 2021 OpenSource Introduction <br>
 <hr>
 <h2> summary </h2>
 
+<b> 입력 이미지에 대해 유사하지만 조금 다른 그림을 출력합니다. </b>
+
 python OpenCV를 이용하여 틀린그림찾기 이미지를 생성합니다.
 
 틀린그림찾기를 하기위해서는 원본 이미지와, 틀린 그림 이미지가 1개씩 필요합니다. 
