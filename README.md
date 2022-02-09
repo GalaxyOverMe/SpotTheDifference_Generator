@@ -1,7 +1,7 @@
 This is term project of Sejong 2021 OpenSource Introduction <br>
 [by JeongJun.Bae](https://github.com/GalaxyOverMe) / [by DongYeok.Kim](https://github.com/Ameri-Kano)
 
-# 동적 틀린그림찾기
+# 틀린그림찾기 Generator
 <hr>
 <h2> summary </h2>
 
@@ -11,7 +11,7 @@ python OpenCV를 이용하여 틀린그림찾기 이미지를 생성합니다.
 
 원본 이미지로부터 틀린 그림 이미지를 만들기 위해
 
-객체 탐지(Object Detection) 와 객체 삭제(Image Inpainting 방법을 이용합니다)를 이용합니다.
+~~객체 탐지(Object Detection)~~ 객체 검출(Region Proposal)과 객체 삭제(Image Inpainting 방법을 이용합니다)를 이용합니다.
 
 객체 탐지 방법으로 Morphological Edge -> contour 방식을
 
